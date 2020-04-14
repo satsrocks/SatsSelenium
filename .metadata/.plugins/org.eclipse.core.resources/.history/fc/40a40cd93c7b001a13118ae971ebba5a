@@ -1,0 +1,17 @@
+package utils;
+
+import java.io.IOException;
+
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class ExcelUtilsDemo {
+
+	public static void main(String[] args) {
+
+
+		ExcelUtils excel = new ExcelUtils(workbook, sheet)
+
+	}
+
+}

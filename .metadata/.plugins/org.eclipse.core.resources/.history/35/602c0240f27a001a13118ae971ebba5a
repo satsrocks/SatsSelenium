@@ -1,0 +1,9 @@
+package demo;
+
+public class PropertiesFileDemo {
+
+	public static void main(String[] args) {
+		Properties 
+	}
+
+}

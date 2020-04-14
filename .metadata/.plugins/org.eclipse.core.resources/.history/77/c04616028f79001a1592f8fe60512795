@@ -1,0 +1,12 @@
+package demo;
+
+public class Log4jDemo {
+	
+	Logger logger 
+
+	public static void main(String[] args) {
+
+
+	}
+
+}

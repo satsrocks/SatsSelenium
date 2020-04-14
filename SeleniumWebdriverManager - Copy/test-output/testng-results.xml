@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="7" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-12T16:03:56 IST" name="Suite1" finished-at="2020-04-12T16:04:44 IST" duration-ms="48049">
+    <groups>
+    </groups>
+    <test started-at="2020-04-12T16:03:56 IST" name="Test1" finished-at="2020-04-12T16:04:25 IST" duration-ms="29282">
+      <class name="tests.GoogleSearchObjectsTestNG3">
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:tests.GoogleSearchObjectsTestNG3@2f112965]" started-at="2020-04-12T16:04:01 IST" name="testSetup" finished-at="2020-04-12T16:04:06 IST" duration-ms="5105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method signature="googleSearchTest4()[pri:0, instance:tests.GoogleSearchObjectsTestNG3@2f112965]" started-at="2020-04-12T16:04:06 IST" name="googleSearchTest4" finished-at="2020-04-12T16:04:16 IST" duration-ms="9561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchTest4 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.GoogleSearchObjectsTestNG3@2f112965]" started-at="2020-04-12T16:04:21 IST" name="tearDown" finished-at="2020-04-12T16:04:25 IST" duration-ms="4313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.GoogleSearchObjectsTestNG3 -->
+      <class name="tests.GoogleSearchObjectsTestNG1">
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:tests.GoogleSearchObjectsTestNG1@1a04f701]" started-at="2020-04-12T16:03:56 IST" name="testSetup" finished-at="2020-04-12T16:04:01 IST" duration-ms="5430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method signature="googleSearchTest1()[pri:0, instance:tests.GoogleSearchObjectsTestNG1@1a04f701]" started-at="2020-04-12T16:04:06 IST" name="googleSearchTest1" finished-at="2020-04-12T16:04:16 IST" duration-ms="9539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchTest1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.GoogleSearchObjectsTestNG1@1a04f701]" started-at="2020-04-12T16:04:16 IST" name="tearDown" finished-at="2020-04-12T16:04:21 IST" duration-ms="4849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.GoogleSearchObjectsTestNG1 -->
+    </test> <!-- Test1 -->
+    <test started-at="2020-04-12T16:04:25 IST" name="Test2" finished-at="2020-04-12T16:04:44 IST" duration-ms="18747">
+      <class name="tests.GoogleSearchObjectsTestNG3">
+        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:tests.GoogleSearchObjectsTestNG3@2f112965]" started-at="2020-04-12T16:03:55 IST" name="setUpSuite" finished-at="2020-04-12T16:03:56 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:tests.GoogleSearchObjectsTestNG3@2f112965]" started-at="2020-04-12T16:04:44 IST" name="tearDownSuite" finished-at="2020-04-12T16:04:44 IST" duration-ms="516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+      </class> <!-- tests.GoogleSearchObjectsTestNG3 -->
+      <class name="tests.GoogleSearchObjectsTestNG2">
+        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:tests.GoogleSearchObjectsTestNG2@5cee5251]" started-at="2020-04-12T16:03:56 IST" name="setUpSuite" finished-at="2020-04-12T16:03:56 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:tests.GoogleSearchObjectsTestNG2@5cee5251]" started-at="2020-04-12T16:04:25 IST" name="testSetup" finished-at="2020-04-12T16:04:30 IST" duration-ms="5112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method signature="googleSearchTest2()[pri:0, instance:tests.GoogleSearchObjectsTestNG2@5cee5251]" started-at="2020-04-12T16:04:30 IST" name="googleSearchTest2" finished-at="2020-04-12T16:04:37 IST" duration-ms="7078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchTest2 -->
+        <test-method signature="googleSearchTest3()[pri:0, instance:tests.GoogleSearchObjectsTestNG2@5cee5251]" started-at="2020-04-12T16:04:37 IST" name="googleSearchTest3" finished-at="2020-04-12T16:04:39 IST" duration-ms="1707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchTest3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.GoogleSearchObjectsTestNG2@5cee5251]" started-at="2020-04-12T16:04:39 IST" name="tearDown" finished-at="2020-04-12T16:04:44 IST" duration-ms="4846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:tests.GoogleSearchObjectsTestNG2@5cee5251]" started-at="2020-04-12T16:04:44 IST" name="tearDownSuite" finished-at="2020-04-12T16:04:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+      </class> <!-- tests.GoogleSearchObjectsTestNG2 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

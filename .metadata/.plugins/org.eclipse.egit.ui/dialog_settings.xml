@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/satsrocks/TryGitInEclipse.git"/>
+		<item value="https://github.com/satsrocks/GitTest.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="satishp &lt;satishp@SATISHPPC1979JR.opentext.net&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="satishp &lt;satishp@SATISHPPC1979JR.opentext.net&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\D-Drive\TryGitInEclipse\.git">
+			<item value="empty"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,29 @@
+package utils;
+
+import java.io.IOException;
+
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class ExcelUtilsDemo {
+	
+	private static String projectPath = System.getProperty("user.dir");
+	static XSSFWorkbook workbook = null;
+	static XSSFSheet sheet = null;
+
+	public static void main(String[] args) {
+
+		try {
+			workbook = new XSSFWorkbook(projectPath+"/excel/data.xlsx");
+			sheet = workbook.getSheet("Sheet1");
+		} catch (IOException e) {
+			System.out.println(e.getMessage());
+			System.out.println(e.getCause());
+			e.printStackTrace();
+		}
+		
+		ExcelUtils excel = new ExcelUtils(workbook, sheet)
+
+	}
+
+}
